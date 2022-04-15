@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/Connect-Azure-Storage-With-Csharp.csproj": {}
+  },
+  "projects": {
+    "/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/Connect-Azure-Storage-With-Csharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/Connect-Azure-Storage-With-Csharp.csproj",
+        "projectName": "Connect-Azure-Storage-With-Csharp",
+        "projectPath": "/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/Connect-Azure-Storage-With-Csharp.csproj",
+        "packagesPath": "/home/zitrojj/.nuget/packages/",
+        "outputPath": "/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/zitrojj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

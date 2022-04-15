@@ -1,0 +1,15 @@
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/bin/Debug/net6.0/Connect-Azure-Storage-With-Csharp
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/bin/Debug/net6.0/Connect-Azure-Storage-With-Csharp.deps.json
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/bin/Debug/net6.0/Connect-Azure-Storage-With-Csharp.runtimeconfig.json
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/bin/Debug/net6.0/Connect-Azure-Storage-With-Csharp.dll
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/bin/Debug/net6.0/Connect-Azure-Storage-With-Csharp.pdb
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/obj/Debug/net6.0/Connect-Azure-Storage-With-Csharp.csproj.AssemblyReference.cache
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/obj/Debug/net6.0/Connect-Azure-Storage-With-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/obj/Debug/net6.0/Connect-Azure-Storage-With-Csharp.AssemblyInfoInputs.cache
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/obj/Debug/net6.0/Connect-Azure-Storage-With-Csharp.AssemblyInfo.cs
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/obj/Debug/net6.0/Connect-Azure-Storage-With-Csharp.csproj.CoreCompileInputs.cache
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/obj/Debug/net6.0/Connect-Azure-Storage-With-Csharp.dll
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/obj/Debug/net6.0/refint/Connect-Azure-Storage-With-Csharp.dll
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/obj/Debug/net6.0/Connect-Azure-Storage-With-Csharp.pdb
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/obj/Debug/net6.0/Connect-Azure-Storage-With-Csharp.genruntimeconfig.cache
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/obj/Debug/net6.0/ref/Connect-Azure-Storage-With-Csharp.dll
