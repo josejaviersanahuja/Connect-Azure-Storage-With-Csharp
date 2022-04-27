@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "b1Lt1dzy/SRPzgbCbrizmrY4oriWDY24ISyNvVF/bhdokyNt3D8j+/W+Qu0VT47PmK8ga/nsPBp7HPbccC0lEQ==",
+  "dgSpecHash": "nfNoAEyZC58bdfy3I+zd8ukfW+Vr/GuBYOKhB7iunQgmgTLfMyyEoTBtbWwPKjS+7XjYHJgP+joF4Klvy9cp3Q==",
   "success": true,
   "projectFilePath": "/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/Connect-Azure-Storage-With-Csharp.csproj",
   "expectedPackageFiles": [
     "/home/zitrojj/.nuget/packages/azure.core/1.22.0/azure.core.1.22.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/azure.data.tables/12.5.0/azure.data.tables.12.5.0.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/azure.storage.blobs/12.11.0/azure.storage.blobs.12.11.0.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/azure.storage.common/12.10.0/azure.storage.common.12.10.0.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
