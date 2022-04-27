@@ -23,3 +23,9 @@
 /home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/bin/Debug/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll
 /home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
 /home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/obj/Debug/net6.0/Connect-Azure-Storage-With-Csharp.csproj.CopyComplete
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/bin/Debug/net6.0/Azure.Core.dll
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/bin/Debug/net6.0/Azure.Storage.Blobs.dll
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/bin/Debug/net6.0/Azure.Storage.Common.dll
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/bin/Debug/net6.0/System.IO.Hashing.dll
+/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/bin/Debug/net6.0/System.Memory.Data.dll

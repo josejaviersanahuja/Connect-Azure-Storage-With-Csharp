@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "GgvWBn2rkU9jV4brzkoXUR6JnRvKhQpI+sO9MXEqfsuOSC/Zm3gHJrmUXd8GPGy5jlB9cDj0NTcIzSi9PnJ/qg==",
+  "dgSpecHash": "b1Lt1dzy/SRPzgbCbrizmrY4oriWDY24ISyNvVF/bhdokyNt3D8j+/W+Qu0VT47PmK8ga/nsPBp7HPbccC0lEQ==",
   "success": true,
   "projectFilePath": "/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/Connect-Azure-Storage-With-Csharp.csproj",
   "expectedPackageFiles": [
+    "/home/zitrojj/.nuget/packages/azure.core/1.22.0/azure.core.1.22.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/azure.storage.blobs/12.11.0/azure.storage.blobs.12.11.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/azure.storage.common/12.10.0/azure.storage.common.12.10.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.0/microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
@@ -12,9 +16,14 @@
     "/home/zitrojj/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/system.diagnostics.diagnosticsource/4.6.0/system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/system.io.hashing/6.0.0/system.io.hashing.6.0.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
-    "/home/zitrojj/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
+    "/home/zitrojj/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }
