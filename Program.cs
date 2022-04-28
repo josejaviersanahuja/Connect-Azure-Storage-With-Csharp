@@ -1,8 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
-using Azure.Data.Tables;
-using Azure.Data.Tables.Models;
-using Azure;
-
+using Azure.Storage.Queues;
+using Azure.Storage.Queues.Models;
 namespace Connect_Azure_Storage_With_Csharp 
 {
     class Program
@@ -13,9 +11,45 @@ namespace Connect_Azure_Storage_With_Csharp
                                     .AddJsonFile("appsettings.json", true, true)
                                     .Build();
 
+           
+            // We'll need a connection string to your Azure Storage account.
+            // You can obtain your connection string from the Azure Portal
+            // (click Access Keys under Settings in the Portal Storage account
+            // blade) or using the Azure CLI with:
+            //
+            //     az storage account show-connection-string --name <account_name> --resource-group <resource_group>
+            //
+            // You would normally provide the connection string to your
+            // application using an environment variable.
             string connectionString = config["connectionstring"];
             Console.WriteLine("Hello World!" + connectionString);
+            
+            // Name of the queue we'll send messages to
+            string queueName = "sample-queue";
 
+            // Get a reference to a queue and then create it
+            QueueClient queue = new QueueClient(connectionString, queueName);
+            queue.Create();
+
+            // Send a message to our queue
+            queue.SendMessage("Hello, Azure!");
+            queue.SendMessage("first");
+            queue.SendMessage("second");
+            queue.SendMessage("third");
+
+            // Get the next messages from the queue
+            foreach (QueueMessage message in queue.ReceiveMessages(maxMessages: 10).Value)
+            {
+                // "Process" the message
+                Console.WriteLine($"Message: {message.Body}");
+
+                // Let the service know we're finished with the message and
+                // it can be safely deleted.
+                queue.DeleteMessage(message.MessageId, message.PopReceipt);
+            }
+            /*********************************************
+                        TABLE STORAGE Y COSMOSDB
+            **********************************************
             // Construct a new "TableServiceClient using a TableSharedKeyCredential.
             string storageUri = "uri del table storage"; // pendiente de obtener al reactivar el servicio
             string storageAccountKey = "account key del cosmosdb account"; // pendiente de obtener al reactivar el servicio
@@ -86,7 +120,7 @@ namespace Connect_Azure_Storage_With_Csharp
 
             // Delete the entity given the partition and row key.
             tableClient.DeleteEntity(partitionKey, rowKey);
-
+*/
 /*          primeras conexiones  
             string tableName = "test-tabla";
 

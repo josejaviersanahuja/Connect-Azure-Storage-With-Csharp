@@ -60,3 +60,5 @@
 /home/zitrojj/dev/Connect-Azure-Storage-With-Csharp/obj/Debug/net6.0/Connect-Azure-Storage-With-Csharp.pdb
 /home/zitrojj/dev/Connect-Azure-Storage-With-Csharp/obj/Debug/net6.0/Connect-Azure-Storage-With-Csharp.genruntimeconfig.cache
 /home/zitrojj/dev/Connect-Azure-Storage-With-Csharp/obj/Debug/net6.0/ref/Connect-Azure-Storage-With-Csharp.dll
+/home/zitrojj/dev/Connect-Azure-Storage-With-Csharp/bin/Debug/net6.0/appsettings.json
+/home/zitrojj/dev/Connect-Azure-Storage-With-Csharp/bin/Debug/net6.0/Azure.Storage.Queues.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Q4HZf8Rlh3vi1UdxfrbYbDWgyXQ6AHPyQvmKkAaM8cPiit4BvAZm2aS6tnZLWvvUQy1ioGoV5i5bh0opOpf8EA==",
+  "dgSpecHash": "Qd4kCUBvbJlWWHAXO9FwpQwtcoWenriChlL+PXYbrf1vzaCKKpVCUIZQgJUMIVutOjUlzzcvLBxO8QXyWmCyYQ==",
   "success": true,
   "projectFilePath": "/home/zitrojj/dev/Connect-Azure-Storage-With-Csharp/Connect-Azure-Storage-With-Csharp.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "/home/zitrojj/.nuget/packages/azure.data.tables/12.5.0/azure.data.tables.12.5.0.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/azure.storage.blobs/12.11.0/azure.storage.blobs.12.11.0.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/azure.storage.common/12.10.0/azure.storage.common.12.10.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/azure.storage.queues/12.9.0/azure.storage.queues.12.9.0.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
