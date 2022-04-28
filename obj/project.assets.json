@@ -827,11 +827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/Connect-Azure-Storage-With-Csharp.csproj",
+      "projectUniqueName": "/home/zitrojj/dev/Connect-Azure-Storage-With-Csharp/Connect-Azure-Storage-With-Csharp.csproj",
       "projectName": "Connect-Azure-Storage-With-Csharp",
-      "projectPath": "/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/Connect-Azure-Storage-With-Csharp.csproj",
+      "projectPath": "/home/zitrojj/dev/Connect-Azure-Storage-With-Csharp/Connect-Azure-Storage-With-Csharp.csproj",
       "packagesPath": "/home/zitrojj/.nuget/packages/",
-      "outputPath": "/home/zitrojj/Escritorio/learning_code/Connect-Azure-Storage-With-Csharp/obj/",
+      "outputPath": "/home/zitrojj/dev/Connect-Azure-Storage-With-Csharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/zitrojj/.nuget/NuGet/NuGet.Config"
